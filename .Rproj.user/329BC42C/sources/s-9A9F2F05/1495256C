@@ -3,7 +3,7 @@
     "path": "~/Programing/CDISC-PK/TestBookdown/_output.yml",
     "project_path": "_output.yml",
     "type": "yaml",
-    "hash": "0",
+    "hash": "1374287624",
     "contents": "",
     "dirty": false,
     "created": 1618704506341.0,
@@ -11,14 +11,16 @@
     "relative_order": 3,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "4,15",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1618704502,
+    "lastKnownWriteTime": 1618704818,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1618704502,
+    "last_content_update": 1618704818504,
     "read_only": false,
     "read_only_alternatives": []
 }
